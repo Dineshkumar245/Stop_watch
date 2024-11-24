@@ -1,2 +1,2 @@
 # Stop_watch
-A web application for stop watch
+A web application which works as an stop watch
